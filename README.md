@@ -9,10 +9,10 @@
  5. Assignment: Programming Assignment 2: Loops, Arrays & Functions
 
  ### Source Files
- 1. Problem1.cpp
- 2. Problem2.cpp
- 3. Problem3.cpp
- 4. Problem4.cpp
+ 1. intarray.cpp
+ 2. zeroboth.cpp
+ 3. salestax.cpp
+ 4. conversion.cpp
 
 ### References
 zyBooks 
